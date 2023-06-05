@@ -14,7 +14,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
       body: Center(
         child: Column(
           children: const [
-            Text("Welcome to Lokesh changed profile Page"),
+            Text("Welcome to changes"),
             Text('data lokesh Changed'),
           ],
         ),
